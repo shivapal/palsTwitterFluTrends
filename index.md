@@ -1,3 +1,6 @@
+### Welcome to Shiva's FluTrends App Frontpage!
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
